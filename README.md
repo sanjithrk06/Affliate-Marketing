@@ -6,9 +6,9 @@ This project is an Affiliate Marketing Portfolio website designed to showcase my
 ---
 ## Technologies Used
 
-- React
-- Redux
-- TailwindCSS
+- HTML
+- CSS
+- Javascript
 
 ---
 ## Features
